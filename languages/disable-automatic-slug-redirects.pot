@@ -1,0 +1,97 @@
+# Copyright (C) 2026 Your Name
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Disable Automatic Slug Redirects 1.0.0\n"
+"Report-Msgid-Bugs-To: https://example.com/support\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-09-02T00:00:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: manual\n"
+"X-Domain: disable-automatic-slug-redirects\n"
+
+#: includes/class-dasr-plugin.php
+msgid "Cannot unserialize a singleton."
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Slug Redirects"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Slug Redirect Behavior"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Control whether WordPress redirects old URLs to a new one after a slug is changed. When disabled here, old URLs will return a normal 404 instead of redirecting."
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Advanced"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "These options affect behavior beyond old-slug redirects. Only change them if you understand the impact."
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Enable / Disable"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Prevent WordPress from redirecting old slugs to new ones."
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Apply To"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Posts"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Pages"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Custom Post Types"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "No public custom post types were found on this site."
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Only the content types checked above will have their old-slug redirects disabled. Unchecked types keep the default WordPress behavior."
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Canonical Redirects"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Also completely disable WordPress's core canonical redirect handler (redirect_canonical)."
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Warning:"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "redirect_canonical() also handles unrelated redirects such as trailing slashes, pagination, and scheme/host normalization. Only enable this if you understand and accept that those redirects will stop working too."
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Disable Automatic Slug Redirects"
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Slug redirect settings saved."
+msgstr ""
+
+#: includes/class-dasr-settings.php
+msgid "Save Changes"
+msgstr ""
